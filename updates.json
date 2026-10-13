@@ -1,6 +1,10 @@
-
 {
   "updates": [
+    {
+      "version": "0.1.1",
+      "title": "Demo Story Expansion",
+      "content": "- Expanded the demo story\n- Added the Relapse system and its new walkable scene\n- Added interactable dice"
+    },
     {
       "version": "0.1.0",
       "title": "Initial Demo Release Version",
